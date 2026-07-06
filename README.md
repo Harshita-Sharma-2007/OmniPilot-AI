@@ -89,7 +89,11 @@ Each task is delegated to dedicated agents:
 All agents communicate through a centralized **Blackboard Pattern**, allowing transparent reasoning and collaboration.
 
 ---
+<img width="1919" height="958" alt="Image" src="https://github.com/user-attachments/assets/0c7b16ed-6202-49cf-b0fd-74871b1bf83c" />
+--- 
+<img width="1892" height="952" alt="Image" src="https://github.com/user-attachments/assets/59773290-8cfe-459f-a0b7-61db7736bb7d" />
 
+---
 # 🔗 Model Context Protocol (MCP)
 
 OmniPilot AI exposes a JSON-RPC compliant MCP server.
